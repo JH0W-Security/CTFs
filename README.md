@@ -1,6 +1,6 @@
 # Write-up: Network Exploration and Lateral Movement
 **Machine:** Cyberheroes (TryHackme)  
-**Author:** John-S3curity  
+**Author:** JH0W-Security 
 **Date:** April 03, 2026
 
 ---
